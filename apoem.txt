@@ -7,6 +7,8 @@ green
 violet
 pink
 unicorn
+phonies
 this is my poem
 these are the colors of a rainbow
-and a unicorn
+and a unicorn and 
+phones
