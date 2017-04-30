@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 purple
 red
@@ -6,4 +6,7 @@ yellow
 green
 violet
 pink
+unicorn
 this is my poem
+these are the colors of a rainbow
+and a unicorn
